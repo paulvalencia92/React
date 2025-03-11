@@ -4,7 +4,7 @@ Bienvenido a este repositorio donde organizo múltiples proyectos desarrollados 
 
 ## 📂 Proyectos disponibles  
 
-1. **Pokemons App** 🐉 - Aplicación para visualizar y buscar Pokémon en una Pokédex interactiva.  
+1. **Pokemons App** 🐉 - Aplicación para visualizar y buscar Pokémon en una Pokédex interactiva. https://app-pokemons-list-react-11032025.netlify.app/  
 
 ## 📌 Cómo ejecutar un proyecto  
 
