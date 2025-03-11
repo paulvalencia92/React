@@ -1,0 +1,24 @@
+# Ignorar todas las carpetas node_modules en cualquier subdirectorio
+node_modules/
+**/node_modules/
+
+# Ignorar dependencias de TypeScript y Vite (si aplican)
+dist/
+**/dist/
+*.log
+
+# Ignorar archivos de bloqueo de dependencias en cualquier subcarpeta
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+**/yarn.lock
+**/package-lock.json
+**/pnpm-lock.yaml
+
+# Ignorar configuraciones de editores de código
+.vscode/
+.idea/
+**/.vscode/
+**/.idea/
+**/.DS_Store
+
